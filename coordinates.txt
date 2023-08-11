@@ -1,0 +1,27 @@
+B1 101,102,106
+*Bahcesehir 39,282 *Halkali 98,114 MustafaKemal 113,94 Kucukcekmece 127,79 *Florya 157,50 FloryaAkvaryum 177,29 Yesilkoy 200,28 Yesilyurt 227,28 Atakoy 257,35 *Bakirkoy 276,46 Yenimahalle 296,46 *Zeytinburnu 325,46 Kazlicesme 349,45 Yenikapi 413,61 *Sirkeci 474,109 Uskudar 530,138 *AyrilikCesmesi 545,103 *Sogutlucesme 557,74 *Feneryolu 580,58 Goztepe 602,58 *Erenkoy 621,49 Suadiye 642,49 Bostanci 664,48 *Kucukyali 683,48 Idealtepe 700,48 SureyyaPlaji 718,49 *Maltepe 736,49 Cevizli 754,48 Atalar 772,48 Basak 790,49 *Kartal 806,49 Yunus 828,48 Pendik 850,50 Kaynarca 866,50 Tersane 884,49 *Guzelyali 904,48 Aydintepe 925,48 Icmeler 936,57 *Tuzla 948,68 Cayirova 959,79 *Fatih 971,91 Osmangazi 983,101 Darica 993,112 *Gebze 1003,124
+M1A 225,30,28
+*AtaturkHavalimani 214,44 DTM-IstanbulFuarMerkezi 223,55 *Yenibosna 235,66 Atakoy-Sirinevler 249,68 *Bahcelievler 265,77 Bakirkoy-Incirli 275,88 *Zeytinburnu2 287,99 *Merter 291,120 Davutpasa-YTU 302,134 Terazidere 315,149 Otogar 329,160 Kocatepe 340,152 *Sagmalcilar 351,141 Bayrampasa-Maltepe 360,132 TopkapiUlubatli 374,118 Emniyet-Fatih 390,102 *Aksaray 402,90 *Yenikapi 413,61
+M1B 141,31,22
+*Kirazli 214,160 BagcilarMeydan 236,169 Ucyuzlu 259,169 *Menderes 280,169 Esenler 303,169 *Otogar 329,160
+M2 0,152,66
+*Yenikapi 413,61 Vezneciler 430,84 *Halic 437,91 Sishane 452,129 *Taksim 451,148 Osmanbey 451,175 Sisli-Mecidiyekoy 452,218 *Gayrettepe 452,239 Levent 452,257 *4.Levent 464,274 *SanayiMahallesi 464,298 IYU-Ayazaga 464,319 *AtaturkOtoSanayi 465,338 Darusafaka 477,357 *Haciosman 488,369
+M4 231,27,116
+*Kadikoy 525,83 *AyrilikCesmesi 545,103 Acibadem 562,109 *Unalan 578,109 Goztepe2 595,97 Yenisahra 619,90 Kozyatagi 642,91 *Bostanci2 660,90 Kucukyali2 679,91 Maltepe2 697,91 Huzurevi 714,91 Gulsuyu 732,91 *Esenkent 750,90 Hastane-Adliye 769,91 Soganlik 787,91 Kartal2 805,91 Yakacik 823,91 *Pendik2 840,88 Tavsantepe 849,79 FevziCakmak 882,85 Yayalar 893,96 Kurtkoy 903,107 *SabihaGokcenHavalimani 907,123
+M5 97,38,93
+*Uskudar 530,138 Fistikagaci 537,154 Baglarbasi 546,164 Altunizade 557,173 *Kisikli 570,186 Bulgurlu 586,186 Umraniye 603,186 *Carsi 619,187 Yamanevler 634,186 Cakmak 647,186 *Ihlamurkuyu 661,185 Altinsehir 675,186 ImamHatipLisesi 692,186 Dudullu 706,186 NecipFazil 719,186 *Cekmekoy 731,186
+M6 201,171,120
+*Levent 452,257 Nispetiye 465,256 Etiler 473,256 *Hisarustu 482,256
+M7 242,158,192
+*Mahmutbey 210,205 *GoztepeMah 221,216 OrucReis 230,226 *Tekstilkent-Giyimkent 246,234 KaradenizMahallesi 264,233 Yenimahalle2 282,233 KazimKarabekir 300,233 *Yesilpinar 319,233 VeyselKarani-Aksemsettin 339,234 CircirMahallesi 356,233 *Alibeykoy 374,233 Nurtepe 397,233 Kagithane 415,234 Caglayan 430,221 *Sisli-Mecidiyekoy 452,218 Fulya 460,208 *Yildiz 467,200
+M9 254,211,0
+*Olimpiyat 146,261 ZiyaGokalpMahallesi 171,260 *IkitelliSanayi 193,251 Masko 189,226 *Bahariye 176,214
+M11 165,90,150
+*IstanbulHavalimani 218,462 *Ihsaniye 304,409 *Gokturk 371,342 *Kemerburgaz 393,318 Hasdal 394,295 *Kagithane 415,234
+Yenikapi B1 M1A M2
+Otogar M1A M1B
+Kagithane M7 M11
+Levent M2 M6
+Sisli-Mecidiyekoy M2 M7
+Uskudar B1 M5
+AyrilikCesmesi B1 M4
